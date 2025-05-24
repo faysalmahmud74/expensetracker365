@@ -20,7 +20,7 @@
 - Xiaomi, Samsung, OnePlus devices
 
 ## 🚀 Installation
-1. Download the APK from the [Releases page](https://github.com/faysalmahmud74/your-repo/releases)
+1. Download the APK from the [Releases page](https://github.com/faysalmahmud74/expensetracker365/releases)
 2. Enable "Install from unknown sources"
 3. Tap on APK to install
 
