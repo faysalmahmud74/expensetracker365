@@ -19,6 +19,7 @@ You can download the latest version of the APK here:
 - Filter transactions by date or amount (ascending/descending)
 - Search and sort features
 - Language support
+- Extensive reports
 - Clean, compact, and mobile-first responsive UI
 - All data stored locally — private and secure
 
