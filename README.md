@@ -25,7 +25,8 @@
 3. Tap on APK to install
 
 ## 📷 Screenshots
-_Add screenshots here_
+![Untitled design](https://github.com/user-attachments/assets/8091cd40-c143-4a7c-901e-e5443d87736a)
+
 
 ## 🆕 Changelog
 **v1.0.0**
