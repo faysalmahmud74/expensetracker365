@@ -4,16 +4,8 @@
 
 ---
 
-## APK Release
-
-🚀 The app is now officially released!  
-You can download the latest version of the APK here:  
-👉 [Download Expense Tracker 365 APK](https://github.com/faysalmahmud74/expensetracker365/archive/refs/heads/main.zip)
-
----
-
-## Features
-
+## 📱 Features
+- Add income/expense transactions
 - Add, edit, and delete transactions (income/expense)
 - Pie chart overview of your income and expenses
 - Filter transactions by date or amount (ascending/descending)
@@ -23,43 +15,21 @@ You can download the latest version of the APK here:
 - Clean, compact, and mobile-first responsive UI
 - All data stored locally — private and secure
 
----
+## 🧪 Tested on:
+- Android 10+
+- Xiaomi, Samsung, OnePlus devices
 
-## Screenshots
+## 🚀 Installation
+1. Download the APK from the [Releases page](https://github.com/your-username/your-repo/releases)
+2. Enable "Install from unknown sources"
+3. Tap on APK to install
 
-![Image](https://github.com/user-attachments/assets/4c47ce2f-865e-4a2b-80a7-40b4ded7b77c)
+## 📷 Screenshots
+_Add screenshots here_
 
----
-
-## Tech Stack
-
-- **Frontend**: React Native (Expo)
-- **Storage**: Local device storage (AsyncStorage)
-- **Chart**: Victory Native (for pie chart visualization)
-
----
-
-## Developer Info
-
-**👋 Hi, I'm Faysal Mahmud**  
-A Software Engineer passionate about building useful, clean, and intuitive tools for everyday use.
-
-<div align="left">
-  <a href="https://linkedin.com/in/faysalmahmud74" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="25"
-      alt="LinkedIn logo"
-    />
-  </a>
-  <a href="https://twitter.com/faysalignity" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
-      height="25"
-      alt="Twitter logo"
-    />
-  </a>
-</div>
+## 🆕 Changelog
+**v1.0.0**
+- Initial release
 
 ---
 
