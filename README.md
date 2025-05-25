@@ -29,8 +29,8 @@
 
 
 ## 🆕 Changelog
-**v1.1.0**
-- Version 1.1.0 – Feature & UI Enhancement Update - 25 May, 2025
+**v1.1.1**
+- Version 1.1.1 – UI Enhancements & Bug Fix - 25 May, 2025
 
 ---
 
