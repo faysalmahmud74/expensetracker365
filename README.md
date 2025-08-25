@@ -44,7 +44,8 @@ If you found this app useful, consider buying me a coffee! Your support helps me
 
 ## License
 
-This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed for personal and non-commercial use only.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
